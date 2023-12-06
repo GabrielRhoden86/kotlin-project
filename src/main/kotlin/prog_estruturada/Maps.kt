@@ -1,4 +1,4 @@
-package br.com.meu_blog
+package prog_estruturada
 fun main(){
 
     val avaliacoes = mapOf(
@@ -17,6 +17,10 @@ fun main(){
         
         println("Nota: $nota, Avaliação: $avaliacao")
     }
-
 }
 
+/*val scanner = Scanner(System.`in`)
+println("Digite dois números inteiros separados por espaços:")
+// Lê os dois números inteiros da entrada padrão
+val num1 = scanner.nextInt()
+val num2 = scanner.nextInt()*/

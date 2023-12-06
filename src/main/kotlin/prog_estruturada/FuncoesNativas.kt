@@ -1,4 +1,4 @@
-package br.com.meu_blog
+package prog_estruturada
 
 fun main() {
     //String

@@ -1,9 +1,9 @@
-package br.com.meu_blog
+package prog_estruturada
 
 //Isso é equivalente ao swicht case embora mais poderoso
 fun main(args:Array<String>){
 
-/*    var number = 2
+ /*  var number = 2
     var resultado = when(number){
         1->"esta é a rota 1"
         2->"esta é a rota 2"
