@@ -16,6 +16,7 @@ fun main() {
     //val result = somaPrecos(precosProdutos2)
 
     println("Resultado: $result")
+    println("Resultado: pos-break")
 }
 
 fun somaPrecos(produtos: Array<BigDecimal>): BigDecimal {

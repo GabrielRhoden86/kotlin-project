@@ -1,5 +1,7 @@
 package br.com.meu_blog.classes.poo
 import java.time.LocalDate
+import java.util.ArrayList
+
 class MainAplication {
     
     companion object{
@@ -8,6 +10,8 @@ class MainAplication {
 
             val gabriel = Pessoa("12345678", "Gabriel", LocalDate.of(1986,9,24),3790.00);
             gabriel.falar("Boa tarde");
+
+
 
 
         }

@@ -10,9 +10,9 @@ class Application  {
         fun main(args:Array<String>){
 
         val calculadora = Calculadora();
-          //calculadora.resultado = BigDecimal("5");
 
-            calculadora.soma(BigDecimal("5"));
+            calculadora.somar(BigDecimal("3.7"));
+            calculadora.multiplicar(BigDecimal("3"));
 
         }
 
