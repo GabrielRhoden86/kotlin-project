@@ -13,9 +13,6 @@ class Application  {
 
             calculadora.somar(BigDecimal("3.7"));
             calculadora.multiplicar(BigDecimal("3"));
-
         }
-
     }
-
 }
